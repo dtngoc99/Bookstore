@@ -1,0 +1,7 @@
+100 6 55000.0 2017 CSDL,Nguyen Tran Anh
+101 6 120000.0 2019 Java,Nguyen Anh Nhat
+102 18 49000.0 2018 Tin hoc co so,Tran Nhi Dan
+103 20 33000.0 2019 English,Jane
+104 10 69000.0 2017 Toan cao cap,Tran Anh Cach
+105 3 290000.0 2019 QTKD,Nguyen Dai
+106 3 27000.0 2016 GDQP,Tran Quoc Dan
